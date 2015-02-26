@@ -1,0 +1,11 @@
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\obj\Debug\Slug.frmSlug.resources
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\obj\Debug\Slug.Properties.Resources.resources
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\obj\Debug\Slug.csproj.GenerateResource.Cache
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\bin\Debug\Slug.exe.config
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\bin\Debug\Slug.exe
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\bin\Debug\Slug.pdb
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\obj\Debug\Slug.exe
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Koochie\obj\Debug\Slug.pdb
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Slug\bin\Debug\Slug.exe.config
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Slug\obj\Debug\Slug.exe
+C:\Users\jasonh\Documents\Visual Studio 2005\Projects\Koochie\Slug\obj\Debug\Slug.pdb
